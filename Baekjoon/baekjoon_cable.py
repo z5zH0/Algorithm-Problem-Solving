@@ -1,5 +1,6 @@
-#upper bound 이용
-#upper bound는 list[mid] <= key값일 때 mid + 1을 low로 설정한다
+# link: 
+# solving method: binary search (upper bound)
+# upper bound: when "list[mid] <= key", "mid + 1" becomes "low"
 
 def upperBS(a, L):
 	low = 0
