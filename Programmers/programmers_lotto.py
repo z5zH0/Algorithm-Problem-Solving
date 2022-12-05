@@ -1,3 +1,6 @@
+# link: https://school.programmers.co.kr/learn/courses/30/lessons/77484
+# solving method: brute force
+
 def solution(lottos, win_nums):
     answer = []
     minimum = 0
