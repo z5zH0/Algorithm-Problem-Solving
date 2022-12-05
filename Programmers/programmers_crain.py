@@ -1,5 +1,5 @@
 # https://school.programmers.co.kr/learn/courses/30/lessons/64061
-# 
+# solving method: queue
 
 def solution(board, moves):
     basket = []
