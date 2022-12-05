@@ -1,3 +1,6 @@
+# link: https://school.programmers.co.kr/learn/courses/30/lessons/42860
+# solving method: greedy
+
 def solution(name):
     answer = 0
     check = []
