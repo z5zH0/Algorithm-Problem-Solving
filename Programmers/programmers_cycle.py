@@ -1,3 +1,6 @@
+# link: https://school.programmers.co.kr/learn/courses/30/lessons/86052
+# solving method: dfs
+
 dxy = [[1,0],[0,-1],[-1,0],[0,1]]
 
 def solution(grid):
