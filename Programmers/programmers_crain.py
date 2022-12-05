@@ -1,3 +1,6 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/64061
+# 
+
 def solution(board, moves):
     basket = []
     pang = 0
